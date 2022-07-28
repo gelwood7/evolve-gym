@@ -38,3 +38,7 @@ body {
 #navbar a:hover {
     font-size: 160%;
 }
+
+.active {
+    border-bottom: 1px solid ivory;
+}
