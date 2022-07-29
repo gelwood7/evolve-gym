@@ -48,4 +48,6 @@ body {
 #join {
     width: 90%;
     line-height: 80px;
+    margin:auto;
+    display:block;
 }
