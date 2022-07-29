@@ -51,3 +51,11 @@ body {
     margin:auto;
     display:block;
 }
+
+/* hero image */
+
+#hero-image {
+    height: 480px;
+    width: 100%;
+    background: url(../images/evolve-hero-image.jpg) no-repeat center center;
+}
