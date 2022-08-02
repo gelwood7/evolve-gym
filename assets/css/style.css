@@ -52,10 +52,19 @@ body {
     display:block;
 }
 
-/* hero image */
+/* hero image and text */
 
-#hero-image {
+.hero-image-container {
+    position: relative;
+    text-align: center;
+    color: ivory;
     height: 480px;
-    width: 100%;
-    background: url(../images/evolve-hero-image.jpg) no-repeat center center;
+    overflow: hidden;
 }
+
+.hero-image-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}   
