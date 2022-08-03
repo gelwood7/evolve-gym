@@ -98,3 +98,24 @@ body {
     1px 30px 60px rgba(16,16,16,0.4);
     
 }   
+
+/* footer style from love running */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: ivory;
+}
