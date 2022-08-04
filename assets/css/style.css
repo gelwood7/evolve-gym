@@ -103,7 +103,7 @@ body {
 
 .form-section {
     clear: left;
-    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
+    background: url("https://res.cloudinary.com/datagel/image/upload/v1659593236/Evolve%20Gym/Evolve-gym2_lfhulf.jpg");
     background-size: cover;
     background-position: center;
     height: 900px;
@@ -112,7 +112,7 @@ body {
 .signup-form {
     margin: 150px 10% 0 0;
     color: #fff;
-    background-color: rgba(60, 60, 60, 0.6);
+    background-color: rgba(60, 60, 60, 0.9);
     max-width: 400px;
     position: absolute;
     left: 10%;
