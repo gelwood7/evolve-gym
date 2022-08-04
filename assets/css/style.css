@@ -46,10 +46,11 @@ body {
 /* join button */
 
 #join {
-    width: 90%;
+    width: 50%;
     line-height: 80px;
     margin:auto;
     display:block;
+    border-radius: 12px;
 }
 
 /* hero image and text */
