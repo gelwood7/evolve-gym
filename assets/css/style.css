@@ -53,6 +53,12 @@ body {
     border-radius: 12px;
 }
 
+/* divider after navbar and before footer */
+
+hr.divide {
+        border-top: 2px solid ivory;
+}
+
 /* hero image and text */
 
 .hero-image-container {
