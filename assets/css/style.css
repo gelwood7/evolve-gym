@@ -45,11 +45,21 @@ body {
 
 /* join button */
 
+.join-container {
+    width: 100%;
+    height: 60px;
+    position: relative;
+}
+
 #join {
     width: 80%;
     line-height: 40px;
-    margin:auto;
-    display:block;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
     border-radius: 12px;
 }
 
