@@ -116,14 +116,14 @@ hr.divide {
     
 }   
 
-/* Form code from love running project*/
+/* form code from love running project*/
 
 .form-section {
     clear: left;
     background: url("https://res.cloudinary.com/datagel/image/upload/v1659593236/Evolve%20Gym/Evolve-gym2_lfhulf.jpg");
     background-size: cover;
     background-position: center;
-    height: 900px;
+    height: 800px;
 }
 
 .signup-form {
@@ -190,4 +190,18 @@ footer {
     margin: 1%;
     padding: 5%;
     color: ivory;
+}
+
+/* membership rates table */
+
+/*.membership-table-container {
+        width: 100%;
+        position: relative;
+}
+
+.membership-table {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
 }
