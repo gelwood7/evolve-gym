@@ -207,21 +207,21 @@ footer {
 
 /* Workouts page */
 
-.workouts {
-    width: 100%;
-    padding: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
-
-/*.arms-iframe {
+/*.workouts {
     width: 100%;
     padding: 10px;
     display: flex;
     align-items: center;
     justify-content: space-around;
 }*/
+
+.arms {
+    width: 100%;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
 
 .chest {
     width: 100%;
