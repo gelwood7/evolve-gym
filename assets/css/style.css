@@ -116,7 +116,20 @@ hr.divide {
     
 }   
 
-/* form code from love running project*/
+/* Membership page */
+
+/* Rates */
+
+.membership-table-container {
+    height: 120%;
+    font-size: 1.5rem;
+    padding: 2.2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* form code from love running project */
 
 .form-section {
     clear: left;
@@ -264,9 +277,9 @@ footer {
 /* Location map */
 
 .map {
-    display: flex;
     font-size: 1.5rem;
     padding: 10px;
+    display: flex;
     justify-content: space-around;
     align-items: center;
 }
