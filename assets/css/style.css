@@ -255,6 +255,7 @@ footer {
 .times {
     height: 280px;
     font-size: 1.5rem;
+    padding: 10px;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -265,6 +266,7 @@ footer {
 .map {
     display: flex;
     font-size: 1.5rem;
+    padding: 10px;
     justify-content: space-around;
     align-items: center;
 }
