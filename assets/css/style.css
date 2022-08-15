@@ -55,6 +55,7 @@ body {
 #join {
     width: 80%;
     line-height: 40px;
+    font-size: 30px;
     margin: 0;
     position: absolute;
     top: 50%;
