@@ -298,3 +298,24 @@ footer {
     justify-content: space-around;
     align-items: center;
 }
+
+/* Media query */
+
+@media screen and (max-width: 1100px) {
+    #navbar {
+        display: flexbox
+    }
+
+    .times {
+        display: flex;
+        flex-direction: column;
+        padding: 0.5rem 0.5rem;
+    }
+    .map {
+        display: flex;
+        flex-direction: column;
+        width: 75%;
+        height: 75%;
+        padding: 2% 2%;
+    }
+}
