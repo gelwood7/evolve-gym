@@ -312,11 +312,42 @@ footer {
         flex-direction: column;
         padding: 0.5rem 0.5rem;
     }
+
     .map {
         display: flex;
         flex-direction: column;
         width: 75%;
         height: 75%;
         padding: 2% 2%;
+    }
+
+    .arms {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .chest {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .back {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .shoulders {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .core {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .legs {
+        display: flex;
+        flex-direction: column;
     }
 }
