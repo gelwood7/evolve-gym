@@ -67,6 +67,10 @@ body {
     border-radius: 12px;
 }
 
+#join:hover {
+    background-color: aqua;
+}
+
 /* divider after navbar and before footer */
 
 hr.divide {
