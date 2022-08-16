@@ -450,6 +450,10 @@ footer {
         font-size: 100px;
     }
 
+    .signup-form {
+        left: 6%;
+    }
+
     .arms iframe {
         width: 350px;
         height: 197px;
@@ -477,5 +481,12 @@ footer {
     .legs iframe {
         width: 350px;
         height: 197px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    
+    .signup-form {
+        left: 6%;
     }
 }
