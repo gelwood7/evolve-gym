@@ -415,8 +415,33 @@ footer {
     }
 
     .arms iframe {
-        width: 300px;
-        height: 225px;
+        width: 500px;
+        height: 281px;
+    }
+
+    .chest iframe {
+        width: 500px;
+        height: 281px;
+    }
+
+    .back iframe {
+        width: 500px;
+        height: 281px;
+    }
+
+    .shoulders iframe {
+        width: 500px;
+        height: 281px;
+    }
+
+    .core iframe {
+        width: 500px;
+        height: 281px;
+    }
+
+    .legs iframe {
+        width: 500px;
+        height: 281px;
     }
 }
 
@@ -428,5 +453,34 @@ footer {
 
     .hero-image-text {
         font-size: 100px;
+    }
+
+    .arms iframe {
+        width: 350px;
+        height: 197px;
+    }
+    .chest iframe {
+        width: 350px;
+        height: 197px;
+    }
+
+    .back iframe {
+        width: 350px;
+        height: 197px;
+    }
+
+    .shoulders iframe {
+        width: 350px;
+        height: 197px;
+    }
+
+    .core iframe {
+        width: 350px;
+        height: 197px;
+    }
+
+    .legs iframe {
+        width: 350px;
+        height: 197px;
     }
 }
