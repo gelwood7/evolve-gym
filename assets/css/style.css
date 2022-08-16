@@ -60,7 +60,8 @@ body {
     line-height: 40px;
     font-size: 30px;
     font-family: Bree Serif, sans-serif;
-    background-color: ivory;
+    color: #0c0b0b; /* to match background color*/
+    background-color: #f5f5f5; /* to match evolve hero image text color */
     margin: 0;
     position: absolute;
     top: 50%;
@@ -485,7 +486,7 @@ footer {
 }
 
 @media screen and (max-width: 400px) {
-    
+
     .signup-form {
         left: 6%;
     }
