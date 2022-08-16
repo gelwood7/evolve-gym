@@ -340,31 +340,37 @@ footer {
     .arms {
         display: flex;
         flex-direction: column;
+        padding: 0%;
     }
 
     .chest {
         display: flex;
         flex-direction: column;
+        padding: 0%;
     }
 
     .back {
         display: flex;
         flex-direction: column;
+        padding: 0%;
     }
 
     .shoulders {
         display: flex;
         flex-direction: column;
+        padding: 0%;
     }
 
     .core {
         display: flex;
         flex-direction: column;
+        padding: 0%;
     }
 
     .legs {
         display: flex;
         flex-direction: column;
+        padding: 0%;
     }
 
     /* Map responsiveness Code from https://ostraining.com/blog/coding/responsive-google-maps/*/ 
@@ -398,6 +404,11 @@ footer {
 
     .hero-image-text {
         font-size: 140px;
+    }
+
+    .arms iframe {
+        width: 300px;
+        height: 225px;
     }
 }
 
