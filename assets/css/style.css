@@ -311,6 +311,18 @@ footer {
         align-items: flex-start;
     }*/
 
+    .gym-image-text {
+        font-size: 24px;
+    }
+
+    .workouts p {
+        font-size: 24px;
+    }
+
+    .membership-table {
+        font-size: 16px;
+    }
+
     .times {
         display: flex;
         flex-direction: column;
