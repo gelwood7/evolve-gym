@@ -385,6 +385,10 @@ footer {
 
 @media screen and (max-width: 750px) {
 
+    .hero-image-container {
+        height: 180px;
+    }
+
     .hero-image-text {
         letter-spacing: 0px;   
         text-transform: uppercase;
@@ -397,6 +401,10 @@ footer {
 }
 
 @media screen and (max-width: 500px) {
+
+    .hero-image-container {
+        height: 150px;
+    }
 
     .hero-image-text {
         letter-spacing: 0px;   
