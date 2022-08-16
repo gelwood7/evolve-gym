@@ -94,10 +94,11 @@ hr.divide {
     transform: translate(-50%, -50%);
     letter-spacing: 20px;
 
-/* add 3d shadow text style from https://codepen.io/ryandsouza13/pen/yEBJQV */
+    /* add 3d shadow text style from https://codepen.io/ryandsouza13/pen/yEBJQV */
 
     text-transform: uppercase;
-    font-family: Bree Serif, sans-serif;
+    font-family: Bree Serif,
+    sans-serif;
     font-size: 240px;
     font-weight: 700;
     color: #f5f5f5;
@@ -313,7 +314,11 @@ footer {
         padding: 0.5rem 0.5rem;
     }
 
-    .map > h1{
+    .map > h1 {
+        display: none;
+    }
+
+    .membership-table-container > h1 {
         display: none;
     }
 
@@ -354,12 +359,26 @@ footer {
         padding-bottom:56.25%;
         position:relative;
         height:0;
-        }
-        .map-responsive iframe{
+    }
+
+    .map-responsive iframe{
         left:0;
         top:0;
         height:100%;
         width:100%;
         position:absolute;
-        }
+    }
+
+    .hero-image-text {
+        width: 75%;
+        height: 75%;
+        letter-spacing: 0px;   
+        text-transform: uppercase;
+        font-family: Bree Serif,
+        sans-serif;
+        font-size: 120px;
+        font-weight: 700;
+        color: #f5f5f5;
+        text-shadow: none;
+    }
 }
