@@ -18,6 +18,9 @@ body {
 #navbar {
     width: 100%;
     overflow: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
 
 /* navagaiton links */
@@ -25,15 +28,14 @@ body {
 #navbar li {
     list-style-type: none;
     float: left;
-    width: 25%;
     text-align: center;
-    line-height: 80px;
+    line-height: 90px;
 }
 
 #navbar a {
     text-decoration: none;
     color: inherit;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 #navbar a:hover {
