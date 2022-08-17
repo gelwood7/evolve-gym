@@ -61,7 +61,7 @@ body {
     font-size: 30px;
     font-family: Bree Serif, sans-serif;
     color: #0c0b0b; /* to match background color*/
-    background-color: #f5f5f5; /* to match evolve hero image text color */
+    background-color: aqua;
     margin: 0;
     position: absolute;
     top: 50%;
@@ -71,9 +71,9 @@ body {
     border-radius: 12px;
 }
 
-#join:hover {
+/*#join:hover {
     background-color: aqua;
-}
+}*/
 
 /* divider after navbar and before footer */
 
@@ -400,7 +400,19 @@ footer {
     }
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 700px) {
+
+    /*#navbar {
+        width: 90%;
+    }*/
+
+    #navbar li {
+        line-height: 30px;
+    }
+
+    #navbar a {
+        font-size: 25px;
+    }
 
     .hero-image-container {
         height: 180px;
@@ -488,6 +500,6 @@ footer {
 @media screen and (max-width: 400px) {
 
     .signup-form {
-        left: 6%;
+        left: 3%;
     }
 }
