@@ -122,7 +122,6 @@ hr.divide {
     1px 22px 10px rgba(16,16,16,0.2),
     1px 25px 35px rgba(16,16,16,0.2),
     1px 30px 60px rgba(16,16,16,0.4);
-    
 }
 
 /* gym image */
@@ -202,12 +201,13 @@ hr.divide {
 }
 
 .formreply {
-    font-size: 80px;
+    font-size: 40px;
     color: #fafafa;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background: none;
 }
 
 /* footer style from love running project*/
@@ -406,10 +406,6 @@ footer {
 }
 
 @media screen and (max-width: 700px) {
-
-    /*#navbar {
-        width: 90%;
-    }*/
 
     #navbar li {
         line-height: 30px;
