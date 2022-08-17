@@ -103,8 +103,7 @@ hr.divide {
     /* add 3d shadow text style from https://codepen.io/ryandsouza13/pen/yEBJQV */
 
     text-transform: uppercase;
-    font-family: Bree Serif,
-    sans-serif;
+    font-family: Bree Serif, sans-serif;
     font-size: 240px;
     font-weight: 700;
     color: #f5f5f5;
