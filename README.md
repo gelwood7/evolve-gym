@@ -84,23 +84,30 @@ The imagery was chossen in keeping with teh colour sheme and to be visually desc
 
 ### Wireframes  
 
-    1.  Home Page  
-        ![Wireframe of Home page on desktop and mobile phone](./assets/images/Wireframe-Home.jpg)
+- Home Page  
 
-    2.  Opening Hours and Location  
-        ![Wireframe of Opening Hours and Location page on desktop and mobile phone](./assets/images/Wireframe-Where-When.jpg)
-    
-    3.  Workouts  
-        ![Wireframe of Workouts page on desktop and mobile phone](./assets/images/Wireframe-Workouts.jpg)
+    ![Wireframe of Home page on desktop and mobile phone](./assets/images/Wireframe-Home.jpg)
 
-    4.  Diet and Nutrition (Next Release)  
-        ![Wireframe of Diet and Nutrition page on desktop and mobile phone](./assets/images/Wireframe-Diet-Nutrition.jpg)
-    
-    5.  Sign Up  
-        ![Wireframe of Sign Up page on desktop and mobile phone](./assets/images/Wireframe-Sign-Up.jpg)
+- Opening Hours and Location  
+
+    ![Wireframe of Opening Hours and Location page on desktop and mobile phone](./assets/images/Wireframe-Where-When.jpg)
+
+- Workouts  
+
+    ![Wireframe of Workouts page on desktop and mobile phone](./assets/images/Wireframe-Workouts.jpg)
+
+- Diet and Nutrition (Next Release)  
+
+    ![Wireframe of Diet and Nutrition page on desktop and mobile phone](./assets/images/Wireframe-Diet-Nutrition.jpg)
+
+- Sign Up  
+
+    ![Wireframe of Sign Up page on desktop and mobile phone](./assets/images/Wireframe-Sign-Up.jpg)
 
 
-- Future Releases
+### Future Releases
+It is my vision of this site is instil a mindset of of growth and personal development in users visiting the site, the name Evolve was chosen especially to do this. I want to provide a unique 'Access All Areas' of a persons physical improvement process and the variables required to acheive this such as science based workouts, diets, nutrition and the correct supplimentation to make that a reality. Future releases will introduce pages dedicated to diet, weight management, nutrition, supplement recommendations and training schedules with progress trackers. The purpose is to increase 'stickyness' and traffic to the site by providing this updated information. This may also mean promoting the site as an advertising space for a partner fitness supplement vendor to promote weekly/monthly deals which will futher increase stickiness and traffic to the site.
+
 
 ## Features
 
