@@ -66,7 +66,6 @@ body {
     position: absolute;
     top: 50%;
     left: 50%;
-    /*-ms-transform: translate(-50%, -50%);*/
     transform: translate(-50%, -50%);
     border-radius: 12px;
 }
@@ -97,6 +96,7 @@ hr.divide {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
 .hero-image-text {
     position: absolute;
     top: 50%;
@@ -104,7 +104,7 @@ hr.divide {
     transform: translate(-50%, -50%);
     letter-spacing: 20px;
 
-    /* add 3d shadow text style from https://codepen.io/ryandsouza13/pen/yEBJQV */
+/* add 3d shadow text style from https://codepen.io/ryandsouza13/pen/yEBJQV */
 
     text-transform: uppercase;
     font-family: 'Bree Serif', sans-serif;
@@ -137,7 +137,7 @@ hr.divide {
 
 /* Membership page */
 
-/* Membership rates */
+    /* Membership rates */
 
 .membership-table-container {
     height: 120%;
@@ -148,7 +148,7 @@ hr.divide {
     align-items: center;
 }
 
-/* Membership form, code from love running project */
+    /* Membership form, code from love running project */
 
 .form-section {
     clear: left;
@@ -215,7 +215,7 @@ hr.divide {
 
 /* footer style from love running project*/
 
-footer {
+.footer {
     height: 160px;
 }
 
