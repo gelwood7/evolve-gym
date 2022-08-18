@@ -19,16 +19,13 @@
 4. Technologies
 
 5. Testing
-    - Test Strategy
-    - Summary
-    - High Level Test Cases
-    - Out of Scope
-    - Test Results
-    - Testing Issues
+    - UAT Testing
+    - Lighthouse Desktop Testing
+    - Lighthouse Mobile Testing  
+    - W3 HTML Valdation  
+    - W3 CSS Valdation
 
 6. Deployment
-
-7. Credits
 
 # Overview
 
@@ -132,30 +129,26 @@ The site containd navigational links at the top of each page and linke to our Fa
 - W3 CSS Valdator
 
 ## Testing
-- Strategy
-- Summary
-- Test Cases
-- Out of Scope
-- Test Results  
+
+### UAT Testing  
 
 ![Image of test results](./assets/images/Evolve-UAT.JPG)
 
-Lighthouse Results - Desktop  
+### Lighthouse Desktop Testing  
+  
 ![Image of test results from lighthouse for desktop](./assets/images/Evolve-Lighthouse-Desktop.JPG)
 
-Lighthouse Results - Mobile Phone  
+### Lighthouse Mobile Testing  
+
 ![Image of test results from lighthouse for mobile](./assets/images/Evolve-Lighthouse-Mobile.JPG)
 
-W3 HTML Valdation Result  
+### W3 HTML Valdation Result    
+
 ![Image of test results W3 HTML Valdator](./assets/images/W3-HTML-Validation.JPG)
 
-W3 CSS Valdation Result  
+### W3 CSS Valdation Result   
+ 
 ![Image of test results W3 CSS Valdator](./assets/images/W3-CSS-Validation.JPG)
-
-- Testing Issues & Resolution
 
 ## Deployment
 
-git 
-
-## Credits
