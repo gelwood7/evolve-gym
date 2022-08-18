@@ -73,10 +73,11 @@ Click [here](https://gelwood7.github.io/evolve-gym/) for the live website.
 
 ## Design
 
-- Colour Scheme
-I choose a dark color scheme as I felt it fit with the image of the gym and is also very clean and distintive. I decided on a font color of ivory to really set off the text on the darker background. The hero image was them selected in black and white format to follow the scheme, given this dark hero image I wanted text that really caught the eye. I chose hex #f5f5f5 for the text color and first used Charles Darwins icon of the evolution of man, but as this was too clutered I went with a shadowing on the text from https://codepen.io/ryandsouza13/pen/yEBJQV which gave the text depth. The shadow is a combination of hex #919191 and rgba(16,16,16) with different levels of opacity from 0.2 to 0.4. This color scheme was then appied throughout the site.
+### Colour Scheme  
+    I choose a dark color scheme as I felt it fit with the image of the gym and is also very clean and distintive. I decided on a font color of ivory to really set off the text on the darker background. The hero image was them selected in black and white format to follow the scheme, given this dark hero image I wanted text that really caught the eye. I chose hex #f5f5f5 for the text color and first used Charles Darwins icon of the evolution of man, but as this was too clutered I went with a shadowing on the text from https://codepen.io/ryandsouza13/pen/yEBJQV which gave the text depth. The shadow is a combination of hex #919191 and rgba(16,16,16) with different levels of opacity from 0.2 to 0.4. This color scheme was then appied throughout the site.
 
-- Typography
+### Typography
+    The font for the site is Bree Serif, this was the right choice as it is a friendly italic which brings a comfort and warmth to many straight line on the site. It work well in both upper and lower case adn is clearly legable. The hero image text shows this in large uppercase font witha shaddow effect giving it great prominence.
 
 - Imagery
 - Wireframes
