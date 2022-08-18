@@ -79,8 +79,11 @@ Click [here](https://gelwood7.github.io/evolve-gym/) for the live website.
 ### Typography
     The font for the site is Bree Serif, this was the right choice as it is a friendly italic which brings a comfort and warmth to many straight line on the site. It work well in both upper and lower case adn is clearly legable. The hero image text shows this in large uppercase font witha shaddow effect giving it great prominence.
 
-- Imagery
-- Wireframes
+### Imagery
+    The imagery was chossen in keeping with teh colour sheme and to be visually descriptive and figurative, while reamining simple and shows a very spacious well equiped gym.
+
+###- Wireframes  
+
     1.  Home Page  
         ![Wireframe of Home page on desktop and mobile phone](./assets/images/Wireframe-Home.jpg)
 
