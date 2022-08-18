@@ -1,4 +1,4 @@
-![Evolve Gym image](/assets/images/Evolvebanner.JPG)
+![Evolve Gym image](./assets/images/Evolvebanner.JPG)
 
 # Table of Contents
 
@@ -32,13 +32,13 @@
 
 # Overview
 
-![Only the fittest will survive - Charles Darwin](/assets/images/ReadmeQuote.JPG)
+![Only the fittest will survive - Charles Darwin](./assets/images/ReadmeQuote.JPG)
 
 The Evolve gym website was designed with a primary purpose of a business website to showcase the gym and get membership. It's goal, is to acheive this by providing a positive user experence where the user has a 'one-stop shop' for everthing required to set and acheive their goals, state of the art Evolve gym, enthusiastic staff, science based workouts, diet and nutritional advise. Providing this additional information gives the site 'stickyness' so that the user will bookmark and return to the site may times for the content increaseing the possibilty of signing up!
 
 The website is fully responsive and can be viewed across all devices.
 
-![Images- of website on different devices from desktop to mobile phone](/assets/images/EvolveResponsive2.jpg)
+![Images- of website on different devices from desktop to mobile phone](./assets/images/EvolveResponsive2.jpg)
 
 Click [here](https://gelwood7.github.io/evolve-gym/) for the live website.
 
@@ -78,19 +78,19 @@ Click [here](https://gelwood7.github.io/evolve-gym/) for the live website.
 - Imagery
 - Wireframes
     1.  Home Page  
-        ![Wireframe of Home page on desktop and mobile phone](/assets/images/Wireframe-Home.jpg)
+        ![Wireframe of Home page on desktop and mobile phone](./assets/images/Wireframe-Home.jpg)
 
     2.  Opening Hours and Location  
-        ![Wireframe of Opening Hours and Location page on desktop and mobile phone](/assets/images/Wireframe-Where-When.jpg)
+        ![Wireframe of Opening Hours and Location page on desktop and mobile phone](./assets/images/Wireframe-Where-When.jpg)
     
     3.  Workouts  
-        ![Wireframe of Workouts page on desktop and mobile phone](/assets/images/Wireframe-Workouts.jpg)
+        ![Wireframe of Workouts page on desktop and mobile phone](./assets/images/Wireframe-Workouts.jpg)
 
     4.  Diet and Nutrition (Next Release)  
-        ![Wireframe of Diet and Nutrition page on desktop and mobile phone](/assets/images/Wireframe-Diet-Nutrition.jpg)
+        ![Wireframe of Diet and Nutrition page on desktop and mobile phone](./assets/images/Wireframe-Diet-Nutrition.jpg)
     
     5.  Sign Up  
-        ![Wireframe of Sign Up page on desktop and mobile phone](/assets/images/Wireframe-Sign-Up.jpg)
+        ![Wireframe of Sign Up page on desktop and mobile phone](./assets/images/Wireframe-Sign-Up.jpg)
 
 
 - Future Releases
@@ -106,19 +106,19 @@ Click [here](https://gelwood7.github.io/evolve-gym/) for the live website.
 - Out of Scope
 - Test Results  
 
-![Image of test results](/assets/images/Evolve-UAT.JPG)
+![Image of test results](./assets/images/Evolve-UAT.JPG)
 
 Lighthouse Results - Desktop  
-![Image of test results from lighthouse for desktop](/assets/images/Evolve-Lighthouse-Desktop.JPG)
+![Image of test results from lighthouse for desktop](./assets/images/Evolve-Lighthouse-Desktop.JPG)
 
 Lighthouse Results - Mobile Phone  
-![Image of test results from lighthouse for mobile](/assets/images/Evolve-Lighthouse-Mobile.JPG)
+![Image of test results from lighthouse for mobile](./assets/images/Evolve-Lighthouse-Mobile.JPG)
 
 W3 HTML Valdation Result  
-![Image of test results W3 HTML Valdator](/assets/images/W3-HTML-Validation.JPG)
+![Image of test results W3 HTML Valdator](./assets/images/W3-HTML-Validation.JPG)
 
 W3 CSS Valdation Result  
-![Image of test results W3 CSS Valdator](/assets/images/W3-CSS-Validation.JPG)
+![Image of test results W3 CSS Valdator](./assets/images/W3-CSS-Validation.JPG)
 
 - Testing Issues & Resolution
 
