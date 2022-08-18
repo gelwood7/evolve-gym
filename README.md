@@ -110,8 +110,26 @@ It is my vision of this site is instil a mindset of of growth and personal devel
 
 
 ## Features
+The site containd navigational links at the top of each page and linke to our Facebook, Twitter, YouTube and Insagram platforms.While the home pages provides a clear look at the gym and equipment the 'Join Now!' button is on all pages other than the mebership page which it directs the user to. Here the user can fill their details, select the membership they are intrested in and a member of our team will contact them ASAP. This form validates the information proir to being submitted and prompts the uers if there is an issue. The times/location page contains a fully fuctional embeded Google maps showing our location. On the workout page we have various embeded YouTube videos which again are fully fucntional and also very eduvcational, I use them myself for training!
 
 ## Technologies
+
+- HTML
+- CSS
+- Font Awesome
+- GitHub
+- GitPod
+- Cloudinary
+- Goggle Maps
+- YouTube
+- WWW.W3.org (background image)
+- Codepen.io (3d shadow text style)
+- Google Chrome Developer Tools
+- Balsamiq Wireframes
+- MS Snipping tool
+- MS Paint
+- W3 HTML Valdator
+- W3 CSS Valdator
 
 ## Testing
 - Strategy
