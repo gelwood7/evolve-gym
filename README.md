@@ -38,7 +38,7 @@
 
 The Evolve gym website was designed with a primary purpose of a business website to showcase the gym and get membership. It's goal, is to acheive this by providing a positive user experence where the user has a 'one-stop shop' for everthing required to set and acheive their goals, state of the art Evolve gym, enthusiastic staff, science based workouts, diet and nutritional advise. Providing this additional information gives the site 'stickyness' so that the user will bookmark and return to the site may times for the content increaseing the possibilty of signing up!
 
-The website is fully responsive and can be viewd across all devices.
+The website is fully responsive and can be viewed across all devices.
 
 ![Images- of website on different devices from desktop to mobile phone](/assets/images/EvolveResponsive2.jpg)
 
@@ -64,7 +64,7 @@ Click [here](https://gelwood7.github.io/evolve-gym/) for the live website.
 - The layout of the pages will be unclutered and intuitive as to what each page and section is about.
 - Elements such as images and text will be reduced in size according to viewport to ensure readability and easy of navigation on mobile devices.
 - The navigation bar will be visable on all pages.
-- The content on the pages will:
+- The content of the pages will:
     1. Showcase what the gym looks like and equipment available.
     2. Show the user the opening times and location.
     3. Present science based workouts for different muscle grups.
@@ -73,6 +73,51 @@ Click [here](https://gelwood7.github.io/evolve-gym/) for the live website.
     6. Allow the user to submit a form with name and email address to be contacted by a menmber of the Evolve team.
     7. Show the user the form has been received, thank them and confirm they will be contacted ASAP.
 
+## Design
+
+- Colour Scheme
+- Typography
+- Imagery
+- Wireframes
+    1.  Home Page  
+        ![Wireframe of Home page on desktop and mobile phone](/assets/images/Wireframe-Home.jpg)
+
+    2.  Opening Hours and Location  
+        ![Wireframe of Opening Hours and Location page on desktop and mobile phone](/assets/images/Wireframe-Where-When.jpg)
+    
+    3.  Workouts  
+        ![Wireframe of Workouts page on desktop and mobile phone](/assets/images/Wireframe-Workouts.jpg)
+
+    4.  Diet and Nutrition  
+        ![Wireframe of Diet and Nutrition page on desktop and mobile phone](/assets/images/Wireframe-Diet-Nutrition.jpg)
+    
+    5.  Sign Up  
+        ![Wireframe of Sign Up page on desktop and mobile phone](/assets/images/Wireframe-Sign-Up.jpg)
+
+
+- Differences to Design
+
+Testing
+- Strategy
+- Summary
+- Test Cases
+- Out of Scope
+- Test Results  
+
+Lighthouse Results - Desktop  
+![Image of test results from lighthouse for desktop](/assets/images/Evolve-Lighthouse-Desktop.JPG)
+
+Lighthouse Results - Mobile Phone  
+![Image of test results from lighthouse for mobile](/assets/images/Evolve-Lighthouse-Mobile.JPG)
+
+W3 HTML Valdation Result  
+![Image of test results W3 HTML Valdator](/assets/images/W3-HTML-Validation.JPG)
+
+W3 CSS Valdation Result  
+![Image of test results W3 CSS Valdator](/assets/images/W3-CSS-Validation.JPG)
+
+
+- Testing Issues
 
 
 
