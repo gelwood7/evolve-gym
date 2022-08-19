@@ -4,33 +4,36 @@
 
 1. [Overview](#overview)
 
-2. User Experience Design (UX)
-    - User
-    - Structure
-    - Design
-        - Colour Scheme
-        - Typography
-        - Imagery
-        - Wireframes
-        - Future Releases
+2. [User Experience Design](#user-experience-design)
+    - [User Stories](#user-stories)
+        - [First Time User](#first-time-user)
+        - [Returning User](#returning-user)
+    - [Structure](#structure)
+    - [Design](#design)
+        - [Colour Scheme](#colour-scheme)
+        - [Typography](#typography)
+        - [Imagery](#imagery)
+        - [Wireframes](#wireframes)
+        - [Future Releases](#future-releases)
 
 3. [Features](#features)
 
 4. [Technologies](#technologies)
 
 5. [Testing](#testing)
-    - UAT Testing
-    - Lighthouse Desktop Testing
-    - Lighthouse Mobile Testing  
-    - W3 HTML Validation  
-    - W3 CSS Validation
+    - [UAT Testing](#uat-testing)
+    - [Lighthouse Desktop Testing](#lighthouse-desktop-testing)
+    - [Lighthouse Mobile Testing](#lighthouse-mobile-testing)
+    - [W3 HTML Validation](#w3-html-validation-result) 
+    - [W3 CSS Validation](#w3-css-validation-result)
 
 6. [Deployment](#deployment)
-    - Project Creation  
-    - GitHub Pages  
-    - Run Project locally
+    - [Project Creation](#project-creation) 
+    - [GitHub Pages](#github-pages) 
+    - [Run Project locally](#run-project-locally)
 
-7. [Credits](#credits)
+7. [Credits](#credits)  
+
 # Overview
 
 ![Only the fittest will survive - Charles Darwin](./assets/images/ReadmeQuote.JPG)
@@ -43,7 +46,7 @@ The website is fully responsive and can be viewed across all devices.
 
 Click [here](https://gelwood7.github.io/evolve-gym/) for the live website.
 
-# User Experience Design (UX)
+# User Experience Design
 
 ## User Stories
 
