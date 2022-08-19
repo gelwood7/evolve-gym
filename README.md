@@ -191,7 +191,27 @@ Go to GitHub [Evolve Gym repository](https://github.com/gelwood7/evolve-gym):
 - Click the 'Code' drop down menu.
 - Copy the Git URL in the HTTPS dialogue box.
 - Open your IDE, open a new terminal window in a directory.
-- Type 'git clone' comand ion the terminal, plua the copied Git URL
+- Type 'git clone' command in the terminal, plus the copied Git URL.
 - A project clone will then be created locally for you.
+
+## Credits
+
+- Code institute for 'Love Running' project and the knowledge from course material to complete this project.
+
+- My mentor Ronan for his help and understanding.
+
+- Font Awesome for font.
+
+- Cloudinary for storing imagery.
+
+- Google Maps for location map.
+
+- YouTube for workout videos.
+
+- WWW.W3.org for background image.
+
+- Codepen.io for 3d shadow text style on hero image text.
+
+- You for reading this!!! :)
 
 
