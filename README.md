@@ -26,6 +26,9 @@
     - W3 CSS Validation
 
 6. Deployment
+    - Project Creation  
+    - GitHub Pages  
+    - Run Project locally
 
 # Overview
 
@@ -170,3 +173,25 @@ I opened the 'bash terminal' in Visual studio and typing git clone link from cli
 - git commit -m "description" - Used to add a description of the latest code update and commit this for addition to the repository. This can later be accessed at any point of the project ypou wish to return to.
 
 - git push - This puses the commited code to the GitHub repository.
+
+### GitHub Pages
+
+Go to GitHub [Evolve Gym repository](https://github.com/gelwood7/evolve-gym):  
+
+- Click on 'Settings' Tab.
+- Scroll Down to Git Hub Pages Heading.
+- Select 'Master Branch' as the source.
+- Click Save.
+- Click link to naviaget to the deployed live site.  
+
+### Run Project locally
+
+Go to GitHub [Evolve Gym repository](https://github.com/gelwood7/evolve-gym):  
+
+- Click the 'Code' drop down menu.
+- Copy the Git URL in the HTTPS dialogue box.
+- Open your IDE, open a new terminal window in a directory.
+- Type 'git clone' comand ion the terminal, plua the copied Git URL
+- A project clone will then be created locally for you.
+
+
