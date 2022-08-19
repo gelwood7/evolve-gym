@@ -159,3 +159,14 @@ The site contains navigational links at the top of each page and linked to our F
 
 ## Deployment
 
+### Project Creation  
+
+The oproject was first created using a template suppied by Code Institute, this was utilised by navigating to the [template](https://github.com/Code-Institute-Org/gitpod-full-template) and click 'Use this template'. I used 'Evolve Gym' as my repository name and checked the 'Include all branches' checkbox. I then navigated to the [Evolve Gym repository](https://github.com/gelwood7/evolve-gym). The opening the 'Code' dropdpwn I selected 'HTTPS' and copied the link.  
+
+I opened the 'bash terminal' in Visual studio and typing git clone link from clip board, open folder, and nvavigated to the local repository created. Throughout the project I used the following to add, commit and push my code to the repository:  
+
+- git add . - This added all saved changes made across all files in GitPod
+
+- git commit -m "description" - Used to add a description of the latest code update and commit this for addition to the repository. This can later be accessed at any point of the project ypou wish to return to.
+
+- git push - This puses the commited code to the GitHub repository.
