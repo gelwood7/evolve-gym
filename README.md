@@ -133,7 +133,7 @@ The site contains navigational links at the top of each page and linked to our F
 - Cloudinary
 - Google Maps
 - YouTube
-- WWW.W3.org (background image)
+- W3 (background pattern image)
 - Codepen.io (3d shadow text style)
 - Google Chrome Developer Tools
 - Balsamiq Wireframes
@@ -212,7 +212,7 @@ Go to GitHub [Evolve Gym repository](https://github.com/gelwood7/evolve-gym):
 
 - YouTube for workout videos.
 
-- WWW.W3.org for background image.
+- W3 for background pattern image.
 
 - Codepen.io for 3d shadow text style on hero image text.
 
