@@ -1,8 +1,8 @@
 ![Evolve Gym image](./assets/images/Evolvebanner.JPG)
 
-# Table of Contents
+# Table of Contents 
 
-1. Overview
+1. [Overview](#overview)
 
 2. User Experience Design (UX)
     - User
@@ -14,22 +14,23 @@
         - Wireframes
         - Future Releases
 
-3. Features
+3. [Features](#features)
 
-4. Technologies
+4. [Technologies](#technologies)
 
-5. Testing
+5. [Testing](#testing)
     - UAT Testing
     - Lighthouse Desktop Testing
     - Lighthouse Mobile Testing  
     - W3 HTML Validation  
     - W3 CSS Validation
 
-6. Deployment
+6. [Deployment](#deployment)
     - Project Creation  
     - GitHub Pages  
     - Run Project locally
 
+7. [Credits](#credits)
 # Overview
 
 ![Only the fittest will survive - Charles Darwin](./assets/images/ReadmeQuote.JPG)
@@ -212,6 +213,6 @@ Go to GitHub [Evolve Gym repository](https://github.com/gelwood7/evolve-gym):
 
 - Codepen.io for 3d shadow text style on hero image text.
 
-- You for reading this!!! :)
+- You for reading this and being interested in my project!!! :)
 
 
